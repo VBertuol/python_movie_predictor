@@ -1,0 +1,350 @@
+Nº	Nome	Gênero	Diretor	Ano Lançamento	Nota	titleId	rating_IMDB	Escritor	Ator/Atriz			
+1	Todo Mundo em Pânico 4	Comédia	David Zucker	2005	6.0	tt0362120	5.1	Shawn Wayans	Anna Faris, Regina Hall, Craig Bierko, Bill Pullman			
+2	Miss Simpatia 2: Armada e Poderosa	Comédia	John Pasquin	2005	5.0	tt0385307	5.1	Caryn Lucas	Sandra Bullock, Regina King, William Shatner, Enrique Murciano		Notas	Significado
+3	Fenômenos Paranormais 2	Horror	John Poliquin	2012	7.0	tt2231554	5.1	Colin Minihan	Richard Harmon, Shawn C. Phillips, Jennica Fulton, Jeffrey Bowyer-Chapman		1	Horrivel
+4	O Iluminado	Thriller	Stanley Kubrick	1980	8.0	tt0081505	8.4	Stephen King	Jack Nicholson, Shelley Duvall, Danny Lloyd		2	Muito Ruim
+5	O Rei da Água	Comédia	Frank Coraci	1998	6.5	tt0120484	6.1	Tim Herlihy	Adam Sandler, Kathy Bates, Henry Winkler, Fairuza Balk		3	Ruim
+6	Meninas Malvadas	Comédia	Mark Waters	2004	7.5	tt0377092	7.1	Tina Fey	Lindsay Lohan, Jonathan Bennett, Rachel McAdams		4	Paia
+7	Harry Potter e o Cálice de Fogo	Aventura	Mike Newell	2005	7.5	tt0764644	6.1	J.K. Rowling	Harper Marshall, Stephen Fry, Ralph Fiennes, Stanley Townsend, Daniel Larner, Gregg Chilingirian		5	Meia-bomba
+8	Bee Movie	Comédia	Simon J. Smith	2007	7.5	tt0389790	6.1	Andy Robin	Jerry Seinfeld, Renée Zellweger, Matthew Broderick, Patrick Warburton		6	OK
+9	Shrek Terceiro	Comédia	Chris Miller	2007	6.0	tt0413267	6.1	Jeffrey Price	Mike Myers, Cameron Diaz, Eddie Murphy, Antonio Banderas		7	Bom
+10	Fenômenos Paranormais	Horror	Colin Minihan	2011	6.5	tt1703199	6.1	Stuart Ortiz	Benjamin Wilkinson, Sean Rogerson, Ashleigh Gryzko, Merwin Mondesir		8	Muito Bom
+11	Liga da Justiça	Aventura	Zack Snyder	2021	5.5	tt0974015	6.1	Joss Whedon	Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller		9	Obra-Prima
+12	O Chamado	Horror	Gore Berbinski	2002	8.0	tt0298130	7.1	Hiroshi Takahashi	Naomi Watts, Martin Henderson, Brian Cox, David Dorfman		10	Jogo Perfeiro
+13	Bob Esponja: O Filme	Comédia	Mark Osborne	2004	8.0	tt0345950	7.1	Kent Osborne	Tom Kenny, Jeffrey Tambor, Rodger Bumpass, Carolyn Lawrence			
+14	O Virgem de 40 Anos	Comédia	Judd Apatow	2005	6.5	tt0405422	7.1	Steve Carell	Steve Carell, Catherine Keener, Paul Rudd, Romany Malco			
+15	Piratas do Caribe: No Fim do Mundo	Aventura	Gore Verbinski	2007	8.0	tt0449088	7.1	Ted Elliott	Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush			
+16	Trovão Tropical	Comédia	Ben Stiller	2008	7.0	tt0942385	7.1	Etan Cohen	Ben Stiller, Jack Black, Robert Downey Jr., Jeff Kahn			
+17	Avatar	Aventura	James Cameron	2009	8.0	tt0499549	7.9	James Cameron	Sam Worthington, Zoe Saldana, Sigourney Weaver			
+18	O Homem de Aço	Aventura	Zack Snyder	2013	7.5	tt0770828	7.1	Joe Shuster	Henry Cavill, Amy Adams, Michael Shannon, Diane Lane			
+19	Licorice Pizza	Comédia	Paul Thomas Anderson	2021	7.0	tt11271038	7.1	Paul Thomas Anderson	Alana Haim, Cooper Hoffman, Sean Penn, Tom Waits			
+20	O Exterminador do Futuro	Ação	James Cameron	1984	8.0	tt0088247	8.1	William Wisher	Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield			
+21	Prenda-me se for Capaz	Biografia	Steven Spielberg	2002	7.0	tt0264464	8.1	Stan Redding	Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen			
+22	Jackass	Comédia	Jeff Tremaine	2002	5.5	tt0322802	6.6	Jeff Tremaine	Johnny Knoxville, Bam Margera, Chris Pontius			
+23	Piratas do Caribe: A Maldição do Pérola Negra	Aventura	Gore Verbinski	2003	7.5	tt0325980	8.1	Jay Wolpert	Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley			
+24	Gran Torino	Drama	Clint Eastwood	2008	8.0	tt1205489	8.1	Dave Johannson	Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her			
+25	2012	Aventura	Roland Emmerich	2009	7.0	tt1190080	5.8	Rolan Emmerich	John Cusack, Thandiwe Newton, Chiwetel Ejiofor			
+26	Harry Potter e as Relíquias da Morte - Parte 2	Aventura	David Yates	2011	8.0	tt1201607	8.1	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon			
+27	Ford vs Ferrari	Biografia	James Mangold	2019	8.5	tt1950186	8.1	Jason Keller	Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe			
+28	Acampamento do Papai	Comédia	Fred Savage	2007	4.5	tt0462244	3.2	Geoff Rodkey	Cuba Gooding Jr., Lochlyn Munro, Richard Gant, Tamala Jones			
+29	Norbit	Comédia	Brian Robbins	2007	4.5	tt0477051	4.2	Eddie Murphy	Eddie Murphy, Thandiwe Newton, Terry Crews, Clifton Powell			
+30	A Ligação	Thriller	Chung-Hyun Lee	2020	7.5	tt10530176	7.1	Chung-Hyun Lee	Park Shin-Hye, Jeon Jong-seo, Kim Sung-ryung			
+31	Scooby-Doo 2	Comédia	Raja Gosnell	2004	5.5	tt0331632	5.2	James Gunn	Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard, Linda Cardellini			
+32	Renascida do Inferno	Horror	David Gelb	2015	7.5	tt2918436	5.2	Jeremy Slater	Olivia Wilde, Mark Duplass, Evan Peters, Sarah Bolger			
+33	Homem-Aranha	Ação	Sam Raimi	2002	8.0	tt0145487	7.4	Steve Ditko	Tobey Maguire, Kirsten Dunst, Willem Dafoe			
+34	Ali G Indahouse	Comédia	Mark Mylod	2002	3.5	tt0284837	6.2	Dan Mazer	Sacha Baron Cohen, Emilio Rivera, Gina La Piana, Dana de Celis			
+35	Johnny English	Comédia	Peter Howitt	2003	7.5	tt0274166	6.2	William Davies	Rowan Atkinson, John Malkovich, Natalie Imbruglia, Tasha de Vasconcelos			
+36	Van Helsing	Aventura	Stephen Sommers	2004	7.0	tt0338526	6.1	Stephen Sommers	Hugh Lackman, Kate Beckinsale, Richard Roxburgh			
+37	As Loucuras de Dick & Jane	Comédia	Dean Parisot	2005	7.5	tt0369441	6.2	Gerald Gaiser	Jim Carrey, Téa Leoni, Alec Baldwin, Richard Jenkins			
+38	A Hora do Rush 3	Ação	Brett Ratner	2007	6.5	tt0293564	6.2	Ross LaManna	Jackie Chan, Chris Tucker, Max von Sydow, Hiroyuki Sanada			
+39	Capitão América: O Primeiro Vingador	Aventura	Joe Johnston	2011	7.0	tt0458339	6.9	Christopher Markus	Chris Evans, Hugo Weaving, Samuel L. Jackson			
+40	Assim na Terra Como no Inferno	Horror	John Erick Dowdle	2014	7.0	tt2870612	6.2	Drew Dowdle	Perdita Weeks, Ben Feldman, Edwin Hodge, François Civil			
+41	Uma Noite no Museu 3: O Segredo da Tumba	Comédia	Shawn Levy	2014	6.0	tt2692250	6.2	Thomas Lennon	Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke			
+42	Johnny English 3.0	Comédia	David Kerr	2018	5.5	tt6921996	6.2	William Davies	Rowan Atkinson, Ben Miller, Olga Kurylenko, Emma Thompson			
+43	Animais Fantásticos: Os Segredos de Dumbledore	Aventura	David Yates	2022	5.5	tt4123432	6.2	Steve Kloves	Eddie Redmayne, Jude Law, Ezra Miller, Dan Fogler			
+44	Dragão Vermelho	Thriller	Brett Ratner	2002	7.0	tt0289765	7.2	Ted Tally	Anthony Hopkins, Edward Norton, Ralph Fiennes, Harvey Keitel			
+45	Harry Potter e o Enigma do Príncipe	Aventura	David Yates	2009	7.5	tt0417741	7.6	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon			
+46	A Origem	Ação	Christopher Nolan	2010	7.5	tt1375666	8.8	Christopher Nolan	Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page			
+47	Truque de Mestre	Crime	Louis Leterrier	2013	7.0	tt1670345	7.2	Edward Ricourt	Jesse Eisenberg, Common, Mark Ruffalo, Woody Harrelson			
+48	O Grande Gatsby	Drama	Baz Luhrmann	2013	4.5	tt1343092	7.2	F. Scott Fitzgerald	Leonardo DiCaprio, Carey Mulligan, Joel Edgerton, Tobey Maguire			
+49	Animais Fantásticos e Onde Habitam	Aventura	David Yates	2016	7.5	tt3183660	7.2	J.K. Rowling	Eddie Redmayne, Katherine Waterston, Alison Sudol, Dan Fogler			
+50	Mulher Maravilha	Aventura	Patty Jenkins	2017	7.0	tt0451279	7.4	Zack Snyder	Gal Gagot, Chris Pine, Robin Wright			
+51	Monty Python em Busca do Cálice Sagrado	Comédia	Terry Gilliam	1975	4.0	tt0071853	8.2	John Cleese	Graham Chapman, John Cleese, Eric Idle, Terry Gilliam			
+52	O Show de Truman	Comédia	Peter Weir	1998	6.5	tt0120382	8.2	Andrew Niccol	Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich			
+53	O Senhor dos Anéis: As Duas Torres	Aventura	Peter Jackson	2002	10	tt0167261	8.8	J.R.R. Tolkien	Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom			
+54	Procurando Nemo	Comédia	Andrew Stanton	2003	8.0	tt0266543	8.2	Andrew Stanton	Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe			
+55	V de Vingança	Thriller	James McTeigue	2005	7.5	tt0434409	8.2	David Lloyd	Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea			
+56	Ilha do Medo	Thriller	Martin Scorsese	2010	8.0	tt1130884	8.2	Dennis Lehane	Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley			
+57	O Lobo de Wall Street	Biografia	Martin Scorsese	2013	7.5	tt0993846	8.2	Jordan Belfort	Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey			
+58	Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai	Drama	Sôichi Masui	2019	9.0	tt10472884	8.2	Masahiro Yokotani	Kaito Ishikawa, Asami Seto, Inori Minase, Nao Tôyama			
+59	1917	Drama	Sam Mendes	2019	8.5	tt8579674	8.2	Krysty Wilson-Cairns	Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth			
+60	O Filho do Máskara	Comédia	Lawrence Guterman	2005	3.0	tt0362165	2.3	Lance Khazei	Jamie Kennedy, Traylor Howard, Alan Cumming, Liam Falconer			
+61	Todo Mundo em Pânico 2	Comédia	Keenen Ivory Wayans	2001	6.5	tt0257106	5.3	Jason Friedberg	Anna Faris, Marlon Wayans, Antony Acker, Mark Barrett			
+62	American Pie: Caindo em Tentação	Comédia	Andrew Waller	2007	7.5	tt0974959	5.3	Adam Herz	John White, Christopher McDonald, Jake Siegel, Lexie Galante			
+63	Thor	Aventura	Kenneth Branagh	2011	7.0	tt0800369	7.0	Zack Stentz	Chris Hemsworth, Anthony Hopkins, Natalie Portman			
+64	Project X	Comédia	Nima Nourizadeh	2012	7.5	tt1636826	6.6	Matt Drake	Thomas Mann, Oliver Cooper, Jonathan Daniel Brown			
+65	A Entidade 2	Horror	Ciarán Foy	2015	6.5	tt2752772	5.3	C. Robert Cargill	James Ransone, Shannyn Sossamon, Robert Daniel Sloan, Dartanian Sloan			
+66	Creep 2	Thriller	Patrick Brice	2017	6.0	tt3654796	6.4	Patrick Brice	Karan Soni, Mark Duplass, Desiree Akhavan			
+67	A Freira	Horror	Coris Hardy	2018	5.5	tt5814060	5.3	James Wan	Demián Bichir, Taissa Farmiga, Jonas Bloquet, Bonnie Aarons			
+68	Alien	Thriller	Ridley Scott	1979	7.5	tt0078748	8.5	Ronald Shusett	Sigourney Weaver, Tom Skerritt, John Hurt			
+69	De Volta para o Futuro	Aventura	Robert Zemeckis	1985	9.0	tt0088763	8.5	Robert Zemeckis	Christopher Lloyd, Michael J. Fox, Lea Thompson			
+70	Titanic	Drama	James Cameron	1997	8.5	tt0120338	7.9	James Cameron	Leonardo DiCaprio, Kate Winslet, Billy Zane			
+71	Todo Mundo em Pânico	Comédia	Keenen Ivory Wayans	2000	8.0	tt0175142	6.3	Jason Friedberg	Anna Faris, Jon Abrahams, Marlon Wayans, Carmen Electra			
+72	Miss Simpatia	Comédia	Donald Petrie	2000	5.5	tt0212346	6.3	Caryn Lucas	Sandra Bullock, Michael Caine, Benjamin Bratt, Candice Bergen			
+73	American Pie 3	Comédia	Jesse Dylan	2003	7.5	tt0328828	6.3	Adam Herz	Jason Biggs, Alyson Hannigan, Seann William Scott, Eugene Levy			
+74	De Repente 30	Comédia	Gary Winick	2004	5.5	tt0337563	6.3	Cathy Yuspa	Jennifer Garner, Mark Ruffalo, Judy Greer, Andy Serkis			
+75	Homem-Aranha 3	Ação	Sam Raimi	2007	7.5	tt0413300	6.3	Sam Raimi	Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church			
+76	Uma Noite Fora de Série	Comédia	Shawn Levy	2010	7.0	tt1279935	6.3	Josh Klausner	Steve Carell, Tina Fey, Mark Wahlberg, Taraji P. Henson			
+77	O Retorno de Johnny English	Comédia	Oliver Parker	2011	7.0	tt1634122	6.3	Robert Wade	Rowan Atkinson, Rosamund Pike, Dominic West, Roger Barclay			
+78	Eu Queria Ter a Sua Vida	Comédia	David Dobkin	2011	6.0	tt1488555	6.3	Scott Moore	Jason Bateman, Ryan Reynolds, Olivia Wilde, Leslie Mann			
+79	Invocação do Mal 3: A Ordem do Demônio	Horror	Michael Chaves	2021	7.5	tt7069210	6.3	Carey W. Hayes	Patrick Wilson, Vera Farmiga, Ruairi O'Connor, Sarah Catherine Hook			
+80	Ninguém Vai Te Salvar	Thriller	Brian Duffield	2023	6.5	tt14509110	6.3	Brian Duffield	Kaitlyn Dever, Elizabeth Kaluev, Zack Duhame, Lauren L. Murray			
+81	Good Morning, Vietnam	Drama	Barry Levinson	1987	9.0	tt0093105	7.3	Mitch Markowitz	Robin Williams, Forest Whitaker, Tom. T. Tran, Chintara Sukapatana			
+82	Debi & Lóide: Dois Idiotas em Apuros	Comédia	Farrellys	1994	6.5	tt0109686	7.3	Bennett Yellin	Jim Carrey, Jeff Daniels, Lauren Holly, Mike Starr			
+83	Harry Potter e a Pedra Filosofal	Aventura	Chris Columbus	2001	7.5	tt0241527	7.6	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon			
+84	Os Simpsons: O Filme	Comédia	David Silverman	2007	8.5	tt0462538	7.3	Ian Maxtone-Graham	Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith			
+85	Megamente	Comédia	Tom McGrath	2010	7.5	tt1001526	7.3	Brent Simons	Will Ferrell, Jonah Hill, Brad Pitt, Tina Fey			
+86	Invocação do Mal 2	Horror	James Wan	2016	7.5	tt3065204	7.3	James Wan	Vera Farmiga, Patrick Wilson, Madison Wolfe, Frances O'Connor			
+87	El Camino	Ação	Vince Gilligan	2019	8.0	tt9243946	7.3	Vince Gilligan	Aaron Paul, Jonathan Banks, Matt Jones, Charles Baker			
+88	Laranja Mecânica	Thriller	Stanley Kubrick	1971	7.5	tt0066921	8.3	Anthony Burgess	Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke			
+89	O Senhor dos Anéis: O Retorno do Rei	Aventura	Peter Jackson	2003	10	tt0167260	9.0	J.R.R. Tolkien	Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom			
+90	Um Sonho de Liberdade	Drama	Frank Darabont	1994	8.5	tt0111161	9.3	Stephen King	Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler			
+91	Deu a Louca em Hollywood	Comédia	Jason Friedberg	2007	4.5	tt0799949	2.4	Jason Friedberg	Kal Penn, Jennifer Coolidge, Fred Willard, Adam Campbell			
+92	Vovó... Zona 3: Tal Pai, Tal Filho	Comédia	John Whitesell	2011	6.0	tt1464174	4.4	Darryl Quarles	Martin Lawrence, Brandon T. Jackson, Jessica Lucas, Michelle Ang			
+93	A Múmia	Aventura	Stephen Sommers	1999	7.5	tt0120616	7.1	Stephen Sommers	Brendan Fraser, Rachel Weisz, John Hannah			
+94	A Volta do Todo Poderoso	Comédia	Tom Shadyac	2007	7.5	tt0413099	5.4	Steve Koren	Steve Carell, Morgan Freeman, Lauren Graham, Johnny Simmons			
+95	O Paizão	Comédia	Dennis Dugan	1999	7.5	tt0142342	6.4	Tim Herlihy	Adam Sandler, Joey Lauren Adams, Jon Stewart, Cole Sprouse			
+96	American Pie 2	Comédia	J.B. Rogers	2001	8.0	tt0252866	6.4	David H. Steinberg	Jason Biggs, Seann William Scott, Shannon Elizabeth, Alyson Hannigan			
+97	O Código Da Vinci	Thriller	Ron Howard	2006	7.5	tt0382625	6.6	Dan Brown	Tom Hanks, Audrey Tautou, Jean Reno			
+98	As Férias de Mr. Bean	Comédia	Steve Bendelack	2007	6.5	tt0453451	6.4	Robin Driscoll	Rowan Atkinson, Willem Dafoe, Steve Pemberton, Lily Atkinson			
+99	Esposa de Mentirinha	Comédia	Dennis Dugan	2011	6.5	tt1564367	6.4	Abe Burrows	Adam Sandler, Jennifer Aniston, Brooklyn Decker, Nicole Kidman			
+100	O Ditador	Comédia	Larry Charles	2012	6.5	tt1645170	6.4	Sacha Baron Cohen	Sacha Baron Cohen, Anna Faris, John C. Reilly, Ben Kingsley			
+101	Batman: A Piada Mortal	Thriller	Sam Liu	2016	6.0	tt4853102	6.4	Bill Finger	Kevin Conroy, Mark Hamill, Tara Strong, Ray Wise			
+102	Aves de Rapina	Aventura	Cathy Yan	2020	3.5	tt7713068	6.1	Christina Hodson	Margot Robbie, Rosie Perez, Mary Elizabeth Winstead			
+103	Hellraiser	Horror	Clive Barker	1987	7.0	tt0093177	6.9	Clive Barker	Andrew Robinson, Clare Higgins, Ashley Laurance			
+104	De Volta para o Futuro - Parte III	Aventura	Robert Zemeckis	1990	8.0	tt0099088	7.4	Bob Gale	Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Tom Wilson			
+105	Harry Potter e a Câmara Secreta	Aventura	Chris Columbus	2002	7.5	tt0295297	7.4	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon			
+106	Borat	Comédia	Larry Charles	2006	7.5	tt0443453	7.4	Sacha Baron Cohen	Sacha Baron Cohen, Ken Davitian, Luenell, Chester			
+107	Piratas do Caribe: O Baú da Morte	Aventura	Gore Verbinski	2006	7.5	tt0383574	7.4	Jay Wolpert	Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport			
+108	Harry Potter e a Ordem da Fênix	Aventura	David Yates	2007	7.5	tt0944836	7.4	J.K. Rowling	Ralph Fiennes, Adam Sopp, Rupert Grint, Harper Marshall, Lewis Macleod			
+109	Joias Brutas	Thriller	Benny Safdie	2019	8.5	tt5727208	7.4	Ronald Bronstein	Adam Sandler, Julia Fox, Idina Menzel, Mesfin Lamengo			
+110	O Farol	Thriller	Robert Eggers	2019	5.5	tt7984734	7.4	Max Eggers	Robert Pattinson, Willem Dafoe, Valeriia Karaman, Logan Hawkes			
+111	Bastardos Inglórios	Aventura	Quentin Tarantino	2009	6.5	tt0361748	8.4	Quentin Tarantino	Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent			
+112	Batman - O Cavaleiro das Trevas Ressurge	Ação	Christopher Nolan	2012	7.5	tt1345836	8.4	Christopher Nolan	Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman			
+113	Homem-Aranha: No Aranhaverso	Aventura	Peter Ramsey	2018	7.0	tt4633694	8.4	Phil Lord	Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali			
+114	Coringa	Thriller	Todd Phillips	2019	9.0	tt7286456	8.4	Todd Phillips	Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy			
+115	Bebês Geniais 2: Super Bebês	Comédia	Bob Clark	2004	2.5	tt0270846	1.5	Gregory Poppen	Jon Voight, Scott Baio, Vanessa Angel, Skyler Shaye			
+116	Todo Mundo em Pânico 5	Comédia	Malcolm D. Lee	2013	5.5	tt0795461	3.5	Marlon Wayans	Simon Rex, Ashley Tisdale, Charlie Sheen, Lindsay Lohan			
+117	Cinquenta Tons de Preto	Comédia	Michael Tiddes	2016	3.5	tt4667094	3.5	Rick Alvarez	Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps			
+118	Seis Vezes Confusão	Comédia	Michael Tiddes	2019	3.0	tt8976710	4.5	Rick Alvarez	Marlon Wayans, Bresha Webb, Michael Ian Black, Glynn Turman			
+119	O Escorpião Rei	Aventura	Chuck Russell	2002	6.5	tt0277296	5.5	Stephen Sommers	Dwayne Johnson, Steven Brand, Michael Clarke Duncan, Kelly Hu			
+120	Todo Mundo em Pânico 3	Comédia	David Zucker	2003	7.5	tt0306047	5.5	Marlon Wayans	Anna Faris, Charlie Sheen, Regina Hall, Pamela Anderson			
+121	Meu Vizinho Mafioso 2	Comédia	Howard Deutch	2004	7.0	tt0327247	5.5	George Gallo	Bruce Willis, Matthew Perry, Natasha Henstridge, Amanda Peet			
+122	Doze é Demais 2	Comédia	Adam Shankman	2005	7.0	tt0452598	5.5	Ernestine Gilbreth Carey	Steve Martin, Bonnie Hunt, Hilary Duff, Eugene Levy			
+123	Os Esquenta-Banco	Comédia	Dennis Dugan	2006	6.0	tt0437863	5.5	Nick Swardson	David Spade, Jon Heder, Rob Schneider, Jon Lovitz			
+124	Serpentes a Bordo	Ação	David R. Ellis	2006	6.5	tt0417148	5.5	Shamuelle David D'Alessandro	Samuel L. Jackson, Julianna Margulies, Nathan Phillips, Rachel Blanchard			
+125	Amanhecer - Parte 2	Aventura	Bill Condon	2012	7.5	tt1673434	5.5	Stephenie Meyer	Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli			
+126	Mr. Bean: O Filme	Comédia	Mel Smith	1997	7.5	tt0118689	6.5	Robin Driscoll	Rowan Atkinson, Peter MacNicol, John Mills, Pamela Reed			
+127	Star Wars, Episódio I: A Ameaça Fantasma	Aventura	George Lucas	1999	7.5	tt0120915	6.5	George Lucas	Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd			
+128	A Bruxa de Blair	Horror	Daniel Myrick	1999	7.5	tt0185937	6.5	Daniel Myrick	Heather Donahue, Michael C. Williams, Joshua Leonard, Bob Griffin			
+129	Cowboys do Espaço	Aventura	Clint Eastwood	2000	7.5	tt0186566	6.5	Howard Klausner	Clint Eastwood, Tommy Lee Jones, Donald Sutherland, James Garner			
+130	Velozes e Furiosos	Ação	Justin Lin	2001	7.5	tt1013752	6.5	Gary Scott Thompson	Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster			
+131	Doze Homens e Outro Segredo	Crime	Steven Soderbergh	2004	7.0	tt0349903	6.5	Jack Golden Russell	George Clooney, Brad Pitt, Julia Roberts, Catherine Zeta-Jones			
+132	Sr. & Sra. Smith	Ação	Doug Liman	2005	7.5	tt0356910	6.5	Simon Kinberg	Brad Pitt, Angelina Jolie, Adam Brody, Vince Vaughn			
+133	Uma Noite no Museu	Comédia	Shawn Levy	2006	7.5	tt0477347	6.5	Milan Trenc	Ben Stiller, Carla Gugino, Ricky Gervais, Dick Van Dyke			
+134	A Lenda do Tesouro Perdido: Livro dos Segredos	Aventura	Jon Turteltaub	2007	6.5	tt0465234	6.5	Ted Elliott	Nicolas Cage, Diane Kruger, Justin Bartha, Jon Voight			
+135	Agente 86	Comédia	Peter Segal	2008	7.5	tt0425061	6.5	Buck Henry	Steve Carell, Anne Hathaway, Alan Arkin, Dwayne Johnson			
+136	Se Beber, Não Case! 2	Comédia	Todd Phillips	2011	7.0	tt1411697	6.5	Scott Moore	Bradley Cooper, Zach Galifianakis, Ed Helms, Justin Bartha			
+137	It 2	Horror	Andy Muschietti	2019	5.0	tt7349950	6.5	Gary Dauberman	Jessica Chastain, James McAvoy, Bill Hader, Isaiah Mustafa			
+138	Pânico	Horror	Wes Craven	1996	7.5	tt0117571	7.4	Kevin Williamson	Neve Campbell, Courteney Cox, David Arquette			
+139	Medo e Delírio em Las Vegas	Drama	Terry Gilliam	1998	7.5	tt0120669	7.5	Alex Cox	Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin			
+140	Harry Potter e o Prisioneiro de Azkaban	Aventura	Alfonso Cuarón	2004	7.5	tt0414084	7.9	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon			
+141	Homem-Aranha 2	Ação	Sam Raimi	2004	7.5	tt0316654	7.5	Miles Millar	Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco			
+142	Invocação do Mal	Horror	James Wan	2013	7.5	tt1457767	7.5	Carey W. Hayes	Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor			
+143	Batman v Superman: Dawn of Justice	Aventura	Zack Snyder	2016	5.5	tt6130880	6.5	Bill Finger	Ben Affleck, Henry Cavill, Amy Adams			
+144	Alien: Covenant	Thriller	Ridley Scott	2017	6.5	tt2316204	6.4	Ronald Shusett	Mike Stoklasa, Jay Bauman			
+145	Gladiador	Ação	Ridley Scott	2000	8.5	tt0172495	8.5	William Nicholson	Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed			
+146	O Pianista	Drama	Roman Polanski	2002	9.0	tt0253474	8.5	Wladyslaw Szpilman	Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox			
+147	Parasita	Thriller	Boon Joon Ho	2019	9.0	tt6751668	8.5	Han Jin-won	Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik			
+148	Esqueceram de Mim 3	Comédia	Raja Gosnell	1997	4.5	tt0119303	4.6	John Hughes	Alex D. Linz, Olek Krupa, Rya Kihlstedt, Lenny von Dohlen			
+149	Super-Herói: O Filme	Comédia	Craig Mazin	2008	8.0	tt0426592	4.6	Craig Mazin	Drake Bell, Leslie Nielsen, Sara Paxton, Christopher McDonald			
+150	Scooby-Doo	Comédia	Raja Gosnell	2002	6.5	tt0267913	5.6	James Gunn	Will Forte, Mark Wahlberg, Jason Isaacs, Gina Rodriguez			
+151	A Creche do Papai	Comédia	Steve Carr	2003	6.5	tt0317303	5.6	Geoff Rodkey	Eddie Murphy, Jeff Garlin, Anjelica Huston, Steve Zahn			
+152	Debi & Lóide 2	Comédia	Troy Miller	2003	5.0	tt0329028	3.4	Bennett Yellin	Derek Richardson, Eric Christian Olsen, Eugene Levy			
+153	A Bruxa	Horror	Robert Eggers	2015	7.5	tt4263482	7.0	Robert Eggers	Anya Taylor-Joy, Ralph Ineson, Kate Dickie			
+154	Eu, Eu Mesmo e Irene	Comédia	Farrellys	2000	7.0	tt0183505	6.6	Mike Cerrone	Jim Carrey, Renée Zellweger, Anthony Anderson, Mongo Brownlee			
+155	Bater ou Correr	Comédia	Tom Dey	2000	6.5	tt0184894	6.6	Alfred Gough	Jackie Chan, Owen Wilson, Lucy Liu, Brandon Merrill			
+156	Star Wars II	Aventura	George Lucas	2002	7.5	tt0121765	6.6	George Lucas	Hayden Christensen, Natalie Portman, Ewan McGregor, Christopher Lee			
+157	O Incrível Hulk	Aventura	Louis Leterrier	2008	7.0	tt0800080	6.6	Jack Kirby	Edward Norton, Liv Tyler, Tim Roth, William Hurt			
+158	Arraste-me para o Inferno	Horror	Sam Raimi	2009	7.0	tt1127180	6.6	Sam Raimi	Alison Lohman, Justin Long, Ruth Livier, Lorna Raver			
+159	Piratas do Caribe: Navegando em Águas Misteriosas	Aventura	Joachim Ronning	2017	6.5	tt1298650	6.6	Jay Wolpert	Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush			
+160	Borat 2	Comédia	Jason Woliner	2020	5.5	tt13143964	6.6	Sacha Baron Cohen	Sacha Baron Cohen, Maria Bakalova, Tom Hanks, Dani Popescu			
+161	Carrie	Horror	Brian De Palma	1976	7.5	tt0074285	7.4	Stephen King	Michaela Watkins, Tommy Dewey, Tara Lynne Barr, Nyasha Hatendi			
+162	Psicopata Americano	Crime	Mary Harron	2000	7.5	tt0144084	7.6	Guinevere Turner	Christian Bale, Justin Theroux, Josh Lucas, Bill Sage			
+163	O Senhor das Armas	Drama	Andrew Niccol	2005	7.5	tt0399295	7.6	Andrew Niccol	Nicolas Cage, Ethan Hawke, Jared Leto, Bridget Moynahan			
+164	Um Sonho Possível	Drama	Jon Lee Hancock	2009	7.5	tt0878804	7.6	Michael Lewis	Quinton Aaron, Sandra Bullock, Tim McGraw, Jae Head			
+165	Zumbilândia	Comédia	Ruben Fleischer	2009	7.5	tt1156398	7.6	Paul Wernick	Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin			
+166	Os Incríveis 2	Comédia	Brad Bird	2018	8.0	tt3606756	7.6	Brad Bird	Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner			
+167	Era Uma Vez em... Hollywood	Drama	Quentin Tarantino	2019	8.0	tt7131622	7.6	Quentin Tarantino	Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch			
+168	Shazam!	Aventura	David Sandberg	2019	4.5	tt0448115	7.0	Bill Parker	Zachary Levi, Mark Strong, Asher Angel			
+169	O Silêncio dos Inocentes	Thriller	Jonathan Demme	1991	8.0	tt0102926	8.6	Ted Tally	Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons			
+170	American Pie: O Livro do Amor	Comédia	John Putch	2009	4.5	tt1407050	4.7	Adam Herz	Bug Hall, Kevin M. Horton, Brandon Hardesty, Eugene Levy			
+171	Inatividade Paranormal 2	Comédia	Michael Tiddes	2014	7.5	tt2828996	4.7	Rick Alvarez	Marlon Wayans, Jaime Pressly, Cedric The Entertainer, Essence Atkins			
+172	Exorcistas do Vaticano	Horror	Mark Neveldine	2015	7.0	tt1524575	4.7	Chris Morgan	Olivia Taylor Dudley, Michael Peña, Dougray Scott, Djimon Hounsou			
+173	As Patricinhas de Beverly Hills	Comédia	Amy Heckerling	1995	6.5	tt0115137	6.9	Amy Heckerling	Alicia Silverstone, Stacey Dash, Brittany Murphy			
+174	Gigolô por Acidente	Comédia	Mike Mitchell	1999	6.5	tt0205000	5.7	Harris Goldberg	Rob Schneider, William Forsythe, Eddie Griffin, Arija Bareikis			
+175	Batman	Ação	Matt Reeves	2022	7.5	tt1877830	7.8	Matt Reeves	Robert Pattinson, Zoë Kravitz, Jeffrey Wright			
+176	Amnésia	Thriller	Christopher Nolan	2000	8.0	tt0209144	8.4	Christopher Nolan	Guy Pearce, Carrie-Anne Moss, Joe Pantoliano			
+177	O Senhor dos Anéis: A Sociedade do Anel	Aventura	Peter Jackson	2001	10	tt0120737	8.8	J.R.R. Tolkien	Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom			
+178	A Hora do Rush 2	Ação	Brett Ratner	2001	7.5	tt0266915	6.7	Jeff Nathanson	Jackie Chan, Chris Tucker, John Lone, Ziyi Zhang			
+179	A Fantástica Fábrica de Chocolate	Aventura	Tim Burton	2005	7.5	tt0367594	6.7	John August	Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter			
+180	American Pie 4	Comédia	Steve Rash	2005	7.0	tt1605630	6.7	Adam Herz	Eugene Levy, Tad Hilgenbrink, Arielle Kebbel			
+181	Os Sem-Floresta	Comédia	Tim Johnson	2006	6.5	tt0327084	6.7	David Hoselton	Bruce Willis, Garry Shandling, Steve Carell, Wanda Sykes			
+182	Anjos e Demônios	Thriller	Ron Howard	2009	6.5	tt0808151	6.7	Dan Brown	Tom Hanks, Ewan McGregor, Ayelet Zurer, Stellan Skarsgård			
+183	Esquadrão Classe A	Ação	Joe Carnahan	2010	6.0	tt0429493	6.7	Stephen J. Cannell	Liam Neeson, Bradley Cooper, Sharlto Copley, Jessica Biel			
+184	American Pie: O Reencontro	Comédia	Jon Hurwitz	2012	7.0	tt1605630	6.7	Adam Herz	Jason Biggs, Alyson Hannigan, Seann William Scott, Chris Klein			
+185	Warcraft	Aventura	Duncan Jones	2016	7.5	tt0803096	6.7	Charles Leavitt	Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper			
+186	Zumbilândia: Atire Duas Vezes	Comédia	Ruben Fleischer	2019	6.0	tt1560220	6.7	Dave Callaham	Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin			
+187	Space Jam	Comédia	Amy Smith-Boyllan	1996	7.5	tt5832032	6.7	Kirk Tingblad	Bob Bergen, Bonnie Silco			
+188	Esqueceram de Mim	Comédia	Chris Columbus	1990	7.5	tt0099785	7.7	John Hughes	Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard			
+189	Onze Homens e um Segredo	Crime	Steven Soderbergh	2001	7.5	tt0240772	7.7	Charles Lederer	George Clooney, Brad Pitt, Julia Roberts, Matt Damon			
+190	Se Beber, Não Case!	Comédia	Todd Phillips	2009	7.5	tt1119646	7.7	Scott Moore	Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms			
+191	A Teoria de Tudo	Drama	James Marsh	2014	7.0	tt2980516	7.7	Jane Hawking	Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry			
+192	O Som do Silêncio	Drama	Darius Marder	2019	7.5	tt5363618	7.7	Derek Cianfrance	Riz Ahmed, Olivia Cooke, Paul Raci, Lauren Ridloff			
+193	Os 7 de Chicago	Biografia	Aaron Sorkin	2020	8.0	tt1070874	7.7	Aaron Sorkin	Eddie Redmayne, Alex Sharp, Sacha Baron Cohen, Jeremy Strong			
+194	GoodFellas	Crime	Martin Scorsese	1990	9.5	tt0099685	8.7	Nicholas Pileggi	Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco			
+195	Interestelar	Aventura	Christopher Nolan	2014	9.0	tt0816692	8.7	Christopher Nolan	Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy			
+196	Espartalhões	Comédia	Jason Friedberg	2008	4.5	tt1073498	2.8	Jason Friedberg	Sean Maguire, Kevin Sorbo, Carmen Electra, Ken Davitian			
+197	Como se Fosse a Primeira Vez	Comédia	Peter Segal	2004	7.0	tt0343660	6.8	George Wing	Adam Sandler, Drew Barrymore, Rob Schneider			
+198	Vovó... Zona 2	Comédia	John Whitesell	2006	7.0	tt0421729	4.8	Darryl Quarles	Martin Lawrence, Emily Procter, Nia Long, Zachary Levi			
+199	A Herança de Mr. Deeds	Comédia	Steven Brill	2002	7.0	tt0280590	5.8	Tim Herlihy	Adam Sandler, Winona Ryder, John Turturro, Allen Covert			
+200	As Branquelas	Comédia	Keenen Ivory Wayans	2004	7.5	tt0381707	5.8	Marlon Wayans	Marlon Wayans, Shawn Wayans, Busy Philipps, Maitland Ward			
+201	Antes Só do que Mal Casado	Comédia	Farrellys	2007	7.5	tt0408839	5.8	Scot Armstrong	Ben Stiller, Michelle Monaghan, Malin Akerman, Jerry Stiller			
+202	Harry Potter e as Relíquias da Morte - Parte 1	Aventura	David Yates	2010	8.0	tt1571403	8.1	J.K. Rowling	Daniel Radcliffe, Emma Watson, Rupert Grint			
+203	Se Beber, Não Case! Parte III	Comédia	Todd Phillips	2013	6.5	tt1951261	5.8	Scott Moore	Bradley Cooper, Zach Galifianakis, Ed Helms, Justin Bartha			
+204	Esqueceram de Mim 2: Perdido em Nova York	Comédia	Chris Columbus	1992	7.5	tt0104431	6.8	John Hughes	Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara			
+205	O Rei Leão	Aventura	Roger Minkoff	1994	8.0	tt0110357	8.5	Linda Woolverton	Matthew Broderick, Jeremy Irons, James Earl Jones			
+206	Todo Poderoso	Comédia	Tom Shadyac	2003	7.5	tt0315327	6.8	Steve Oedekerk	Jim Carrey, Jennifer Aniston, Morgan Freeman, Philip Baker Hall			
+207	A Casa do Lago	Drama	Alejandro Agresti	2006	6.5	tt0410297	6.8	Ji Na Yeo	Keanu Reeves, Sandra Bullock, Christopher Plummer, Ebon Moss-Bachrach			
+208	Sim Senhor	Comédia	Peyton Reed	2008	7.0	tt1068680	6.8	Danny Wallace	Jim Carrey, Zooey Deschanel, Bradley Cooper, John Michael Higgins			
+209	A Entidade	Horror	Scott Derrickson	2012	7.5	tt1922777	6.8	C. Robert Cargill	Ethan Hawke, Juliet Rylance, James Ransone, Fred Thompson			
+210	O Babadook	Horror	Jennifer Kent	2014	7.5	tt2321549	6.8	Jennifer Kent	Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney			
+211	Os Intocáveis	Crime	Brian De Palma	1987	7.5	tt0094226	7.8	David Mamet	Kevin Costner, Sean Connery, Robert De Niro, Charles Martin Smith			
+212	De Volta para o Futuro - Parte II	Aventura	Robert Zemeckis	1989	9.0	tt0096874	7.8	Bob Gale	Michael J. Fox, Christopher Lloyd, Lea Thompson, Tom Wilson			
+213	Desventuras em Série	Comédia	Brad Silberling	2004	7.0	tt0339291	6.8	Robert Gordon	Jim Carrey, Jude Law, Meryl Streep			
+214	O Curioso Caso de Benjamin Button	Drama	David Fincher	2008	7.5	tt0421715	7.8	F. Scott Fitzgerald	Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond			
+215	A Rede Social	Biografia	David Fincher	2010	7.5	tt1285016	7.8	Ben Mezrich	Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Rooney Mara			
+216	Straight Outta Compton	Biografia	F. Gary Gray	2015	8.5	tt1398426	7.8	Jonathan Herman	O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell, Neil Brown Jr.			
+217	Últimas Conversas	Biografia	Eduardo Coutinho	2015	7.0	tt4611160	7.8	Eduardo Coutinho	Eduardo Coutinho			
+218	Corra!	Thriller	Jordan Peele	2017	7.0	tt5052448	7.8	Jordan Peele	Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener			
+219	Adoráveis Mulheres	Drama	Greta Gerwig	2019	8.0	tt3281548	7.8	Louisa May Alcott	Saoirse Ronan, Emma Watson, Florence Pugh, Eliza Scanlen			
+220	O Irlandês	Crime	Martin Scorsese	2019	8.0	tt1302006	7.8	Charles Brandt	Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel			
+221	Clube da Luta	Drama	David Fincher	1999	9.0	tt0137523	8.8	Jim Uhls	Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier			
+222	Super-Heróis: A Liga da Injustiça	Comédia	Jason Friedberg	2008	2.5	tt1213644	1.9	Jason Friedberg	Carmen Electra, Vanessa Lachey, Nicole Parker, Matt Lanter			
+223	O Filho de Chucky	Comédia	Don Mancini	2004	5.0	tt0387575	4.9	Don Mancini	Jennifer Tilly, Brad Dourif, John Waters, Billy Boyd			
+224	Ano Um	Comédia	Harold Ramis	2009	6.0	tt1045778	4.9	Harold Ramis	Jack Black, Michael Cera, Olivia Wilde, Oliver Platt			
+225	Amanhecer - Parte 1	Aventura	Bill Condon	2011	6.5	tt1324999	4.9	Stephenie Meyer	Kristen Stewart, Robert Pattinson, Taylor Lautner, Gil Birmingham			
+226	Premonição	Thriller	James Wong	2000	6.5	tt0195714	6.7	James Wong	Devon Sawa, Ali Larter, Kerr Smith			
+227	+ Velozes + Furiosos	Ação	John Singleton	2003	7.0	tt0322259	5.9	Derek Haas	Paul Walker, Tyrese Gibson, Cole Hauser, Eva Mendes			
+228	A Nova Cinderela	Comédia	Mark Rosman	2004	6.0	tt0356470	5.9	Leigh Dunlap	Hilary Duff, Chad Michael Murray, Jennifer Coolidge, Dan Byrd			
+229	O Albergue	Horror	Eli Roth	2005	7.5	tt0450278	5.9	Eli Roth	Jay Hernandez, Derek Richardson, Eythor Gudjonsson, Barbara Nedeljakova			
+230	Brüno	Comédia	Larry Charles	2009	8.0	tt0889583	5.9	Sacha Baron Cohen	Sacha Baron Cohen, Gustaf Hammarsten, Clifford Bañagale, Chibundu Orukwowu			
+231	Um Jantar para Idiotas	Comédia	Jay Roach	2010	7.0	tt0427152	5.9	Francis Veber	Steve Carell, Paul Rudd, Stephanie Szostak, Zach Galifianakis			
+232	It Follows	Horror	David Robert Mitchell	2014	7.5	tt3235888	6.8	David Robert Mitchell	Maika Monroe, Keir Gilchrist, Olivia Luccardi			
+233	Esquadrão Suicida	Aventura	David Ayer	2016	6.0	tt1386697	5.9	John Ostrander	Will Smith, Jared Leto, Margot Robbie, Viola Davis			
+234	O Feitiço de Áquila	Aventura	Richard Donner	1985	7.5	tt0089457	6.9	David Webb Peoples	Matthew Broderick, Rutger Hauer, Michelle Pfeiffer, Leo McKern			
+235	Shrek 2	Comédia	Andrew Adamson	2004	7.5	tt0410595	7.3	Andrew Adamson	Mike Myers, Eddie Murphy, Cameron Diaz			
+236	A Lenda do Tesouro Perdido	Aventura	Jon Turteltaub	2004	7.5	tt0368891	6.9	Oren Aviv	Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean			
+237	O Exorcista	Horror	William Friedkin	1973	7.5	tt0070047	8.1	William Peter Blatty	Ellen Burstyn, Max Von Sydow, Linda Blair			
+238	Quase Famosos	Drama	Cameron Crowe	2000	7.5	tt0181875	7.9	Cameron Crowe	Billy Crudup, Patrick Fugit, Kate Hudson, Frances McDormand			
+239	As Aventuras de Pi	Drama	Ang Lee	2012	7.5	tt0454876	7.9	David Magee	Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu			
+240	História de um Casamento	Drama	Noah Baumbach	2019	8.5	tt7653254	7.9	Noah Baumbach	Adam Driver, Scarlett Johansson, Julia Greer, Azhy Robertson			
+241	Hannibal	Thriller	Ridley Scott	2001	6.5	tt0212985	5.0	Thomas Harris	Anthony Hopkins, Julianne Moore, Gary Oldman			
+242	Inatividade Paranormal	Comédia	Michael Tiddes	2013	7.5	tt2243537	5.0	Rick Alvarez	Marlon Wayans, Essence Atkins, Marlene Forte, David Koechner			
+243	O Amor é Cego	Comédia	Farrellys	2001	6.0	tt0256380	6.0	Sean Moynihan	Jack Black, Gwyneth Paltrow, Jason Alexander, Joe Viterelli			
+244	Velozes & Furiosos: Desafio em Tóquio	Ação	Justin Lin	2006	7.5	tt0463985	6.0	Chris Morgan	Lucas Black, Zachery Ty Bryan, Shad Moss, Damien Marzette			
+245	The Poughkeepsie Tapes	Horror	John Erick Dowdle	2007	7.5	tt1010271	6.0	John Erick Dowdle	Stacy Chbosky, Ben Messmer, Samantha Robson, Ivar Brogger			
+246	Um Faz de Conta Que Acontece	Comédia	Adam Shankman	2008	6.0	tt0960731	6.0	Tim Herlihy	Adam Sandler, Keri Russell, Courteney Cox, Guy Pearce			
+247	Uma Noite no Museu 2	Comédia	Shawn Levy	2009	7.0	tt1078912	6.0	Thomas Lennon	Ben Stiller, Owen Wilson, Amy Adams, Hank Azaria			
+248	A Possessão de Deborah Logan	Horror	Adam Robitel	2014	7.0	tt3387648	6.0	Gavin Heffernan	Jill Larson, Anne Ramsay, Michelle Ang, Brett Gentile			
+249	Um Maluco no Golfe	Comédia	Dennis Dugan	1996	7.0	tt0116483	7.0	Tim Herlihy	Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay			
+250	A Hora do Rush	Ação	Brett Ratner	1998	7.0	tt0120812	7.0	Jim Kouf	Jackie Chan, Chris Tucker, Ken Leung, Tom Wilkinson			
+251	Entrando numa Fria	Comédia	Jay Roach	2000	7.0	tt0212338	7.0	John Hamburg	Ben Stiller, Robert De Niro, Teri Polo, Blythe Danner			
+252	Penetras Bons de Bico	Comédia	David Dobkin	2005	7.0	tt0396269	7.0	Bob Fisher	Owen Wilson, Vince Vaughn, Rachel McAdams, Christopher Walken			
+253	O Segredo da Cabana	Thriller	Drew Goddard	2011	7.0	tt1259521	7.0	Joss Whedon	Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz			
+254	O Poço	Thriller	Galder Gaztelu-Urrutia	2019	8.0	tt8228288	7.0	Pedro Rivero	Ivan Massagué, Zorion Eguileor, Antonia San Juan, Emilio Buale			
+255	Um Dia de Cão	Drama	Sidney Lumet	1975	7.5	tt0072890	8.0	Leslie Waller	Al Pacino, John Cazale, Penelope Allen, Sully Boyar			
+256	Requiem for a Dream	Drama	Darren Aronofsky	2000	7.5	tt5543402	8.3	Darren Aronofsky	Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans			
+257	O Jogo da Imitação	Biografia	Morten Tyldum	2014	7.5	tt2084970	8.0	Andrew Hodges	Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech			
+258	Batman - O Cavaleiro das Trevas	Ação	Christopher Nolan	2008	9.0	tt0468569	9.0	Christopher Nolan	Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine			
+259	Tempos Modernos	Comédia	Charles Chaplin	1936	8.0	tt0027977	8.5	Charles Chaplin	Charles Chaplin, Paulette Goddard, Henry Bergman			
+260	Psicose	Thriller	Alfred Hitchcock	1960	8.0	tt0054215	8.5	Joseph Stefano	Anthony Perkins, Janet Leigh, Veras Miles			
+261	Lolita	Drama	Stanley Kubrick	1962	7.5	tt0056193	7.5	Vladimir Nabokov	James Mason, Shelley Winters, Sue Lyon			
+262	2001	Aventura	Stanley Kubrick	1968	7.5	tt0062622	8.3	Arthur C. Clarke	Keir Dullea, Gary Lockwood, William Sylvester			
+263	The Texas Chainsaw Massacre	Horror	Tobe Hooper	1974	7.0	tt0072271	7.4	Tobe Hooper	Marilyn Burns, Edwin Neal, Allen Danziger			
+264	Taxi Driver	Drama	Martin Scorsese	1976	8.0	tt0075314	8.2	Paul Schrader	Robert De Niro, Jodie Foster, Cybill Shepherd			
+265	Halloween	Horror	John Carpenter	1978	7.5	tt0077651	7.7	John Carpenter	Jamie Lee Curtis, Donald Pleasence, Tony Moran			
+266	Airplane!	Comédia	Jim Abrahams	1980	8.0	tt0080339	7.7	Jim Abrahams	Robert Hays, Julie Hagerty, Leslie Nielsen			
+267	Sexta-Feira 13	Horror	Sean S. Cunningham	1980	7.0	tt0080761	6.4	Victor Miller	Betsy Palmer, Adrienne King, Jeannine Taylor			
+268	Halloween II	Horror	Rick Rosenthal	1981	4.5	tt0082495	6.5	John Carpenter	Jamie Lee Curtis, Donald Pleasence, Charles Cyphers			
+269	Blade Runner	Ação	Ridley Scott	1982	7.5	tt9567018	8.1	Hampton Fancher	Harrison Ford, Rutger Hauer, Sean Young			
+270	Conan the Barbarian	Aventura	John Milius	1982	7.5	tt0082198	6.9	Robert E. Howard	Arnold Schwarzenegger, James Earl Jones, Max von Sydow			
+271	Poltergeist	Horror	Tobe Hooper	1982	7.0	tt0084516	7.3	Steven Spielberg	Nick Lincoln, Patrick Boulanger, Sylvain B. Boulanger, Guillaume Boulanger, Max Billing, Lacey Boogeyman			
+272	Scarface	Crime	Brian De Palma	1983	9.5	tt5274792	8.3	Oliver Stone	Al Pacino, Michelle Pfeiffer, Steven Bauer			
+273	Jurassic Park	Aventura	Steven Spielberg	1993	7.0	tt0107290	8.2	David Koepp	Sam Neill, Laura Dern, Jeff Goldblum			
+274	Forrest Gump	Drama	Robert Zemeckis	1994	9.0	tt0109830	8.8	Winston Groom	Tom Hanks, Robin Wright, Gary Sinise			
+275	Pulp Fiction	Ação	Quentin Tarantino	1994	7.5	tt0110912	8.9	Quentin Tarantino	John Travolta, Uma Thurman, Samuel L. Jackson			
+276	Cassino	Crime	Martin Scorsese	1995	9.5	tt0112641	8.2	Martin Scorsese	Robert De Niro, Sharon Stone, Joe Pesci			
+277	Heat	Crime	Michael Mann	1995	8.0	tt0113277	8.3	Michael Mann	Al Pacino, Robert De Niro, Val Kilmer			
+278	Se7en	Crime	David Fincher	1995	8.0	tt0114369	8.6	Andrew Kevin Walker	Morgan Freeman, Brad Pitt, Kevin Spacey			
+279	Trainspotting	Drama	Danny Boyle	1996	8.0	tt0117951	8.1	Irvine Welsh	Ewan McGregor, Ewan Bremner, Jonny Lee Miller			
+280	O Mentiroso	Comédia	Tom Shadyac	1997	7.0	tt0119528	6.9	Paul Guay	Jim Carrey, Maura Tierney, Amanda Donohoe			
+281	Anaconda	Ação	Luis Llosa	1997	4.0	tt0118615	4.9	Jim Cash	Jon Voight, Jennifer Lopez, Eric Stoltz, Ice Cube, Owen Wilson			
+282	Matrix	Ação	Wachowskis	1999	9.0	tt5274778	8.7	Wachowskis	Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss			
+283	American Pie	Comédia	Paul Weitz	1999	8.0	tt0163651	7.0	Adam Herz	Jason Biggs, Chris Klein, Thomas Ian Nicholas			
+284	Rock Star	Drama	Stephen Herek	2001	7.0	tt0202470	6.3	John Stockwell	Mark Wahlberg, Jennifer Aniston, Dominic West			
+285	Shrek	Comédia	Andrew Adamson	2001	7.5	tt0126029	7.9	Ted Elliott	Mike Myers, Eddie Murphy, Cameron Diaz			
+286	Animal	Comédia	Luke Greenfield	2001	6.5	tt0255798	4.8	Tom Brady	Rob Schneider, Colleen Haskell, John C. McGinley			
+287	Legally Blonde	Comédia	Robert Loketic	2001	6.0	tt0250494	6.4	Amanda Brown	Reese Witherspoon, Luke Wilson, Selma Blair			
+288	Rat Race	Comédia	Jerry Zucker	2001	6.0	tt0250687	6.4	Andy Breckman	Breckin Meyer, Amy Smart, Whoopi Goldberg			
+289	8 Mile	Drama	Curtis Hanson	2002	8.0	tt0298203	7.2	Scott Silver	Eminem, Brittany Murphy, Kim Basinger			
+290	Duplex	Comédia	Danny DeVito	2003	7.5	tt0266489	5.9	Stephan Gunn	Ben Stiller, Drew Barrymore, Eileen Essell			
+291	Matrix Reloaded	Ação	Wachowskis	2003	7.5	tt0234215	7.2	Wachowskis	Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss			
+292	Tratamento de Choque	Comédia	Peter Segal	2003	6.0	tt5230578	6.2	David Dorfman	Jack Nicholson, Adam Sandler, Marisa Tomei			
+293	Os Incríveis	Comédia	Brad Bird	2004	9.0	tt0317705	8.0	Brad Bird	Craig T. Nelson, Holly Hunter, Samuel L. Jackson			
+294	Táxi	Comédia	Tim Story	2004	6.5	tt0316732	4.5	Luc Besson	Queen Latifah, Jimmy Fallon, Gisele Bündchen			
+295	Com a Bola Toda	Comédia	Rawson Marshall Thurber	2004	5.5	tt0364725	6.7	Rawson Marshall Thurber	Ben Stiller, Christine Taylor, Vince Vaughn			
+296	Madagascar	Comédia	Eric Darnell	2005	8.0	tt0351283	6.9	Mark Burton	Chris Rock, Ben Stiller, David Schwimmer			
+297	Golpe Baixo	Comédia	Peter Segal	2005	7.0	tt0398165	6.4	Sheldon Turner	Adam Sandler, Burt Reynolds, Chris Rock			
+298	À Procura da Felicidade	Drama	Gabriele Muccino	2006	8.0	tt0454921	8.0	Steve Conrad	Will Smith, Thandiwe, Jaden Smith			
+299	Click	Comédia	Frank Coraci	2006	8.0	tt0389860	6.4	Steve Koren	Adam Sandler, Kate Beckinsale, Christopher Walken			
+300	American Pie 5	Comédia	Joe Nussbaum	2006	6.5	tt0808146	5.1	Adam Herz	John White, Eugene Levy, Maria Ricossa			
+301	Date Movie	Comédia	Jason Friedberg	2006	3.5	tt0466342	2.8	Jason Friedberg	Alyson Hannigan, Adam Campbell, Fred Willard			
+302	Ratatouille	Comédia	Brad Bird	2007	8.0	tt0382932	8.1	Brad Bird	Brad Grret, Lou Romano, Patton Oswalt			
+303	Superbad	Comédia	Greg Mottola	2007	7.5	tt0829482	7.6	Seth Rogen	Michael Cera, Jonah Hill, Christopher Mintz-Plasse			
+304	Crepúsculo	Drama	Catherine Hardwicke	2008	7.5	tt1099212	5.3	Stephenie Meyer	Kristen Stewart, Robert Pattinson, Billy Burke, Taylor Lautner			
+305	Lake Mungo	Horror	Joel Anderson	2008	6.5	tt0816556	6.3	Joel Anderson	Rosie Traynor, David Pledger, Martin Sharpe			
+306	Presságio	Thriller	Alex Proyas	2009	7.0	tt0448011	6.2	Stiles White	Nicolas Cage, Chandler Canterbury, Rose Byrne			
+307	A Saga Crepúsculo: Eclipse	Drama	David Slade	2010	6.0	tt1325004	5.1	Stephenie Meyer	Kristen Stewart, Robert Pattinson, Billy Burke, Taylor Lautner			
+308	Karate Kid	Aventura	Harald Zwart	2010	6.5	tt1155076	6.2	Christopher Murphey	Jackie Chan, Jaden Smith			
+309	Drive	Ação	Nicolas Winding Refn	2011	8.0	tt0780504	7.8	Hossein Amini	Ryan Gosling, Carey Mulligan, Bryan Cranston			
+310	Paul	Comédia	Greg Mottola	2011	7.0	tt1092026	6.9	Simon Pegg	Simon Pegg, Nick Frost, Seth Rogen			
+311	Prometheus	Thriller	Ridley Scott	2012	7.0	tt1446714	7.0	Dan O'Bannon	Noomi Rapace, Logan Marshall-Green, Michael Fassbender			
+312	Ted	Comédia	Seth MacFarlane	2012	6.5	tt1637725	6.9	Seth MacFarlane	Mark Wahlberg, Mila Kunis, Seth MacFarlane			
+313	A Visita	Horror	M. Night Shyamalan	2015	8.0	tt3567288	6.2	M. Night Shyamalan	Olivia DeJonge, Ed Oxenbould, Deanna Dunagan			
+314	The Invitation	Thriller	Karyn Kusama	2015	7.5	tt2400463	6.6	Phil Hay	Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman			
+315	Hush	Horror	Mike Flanagan	2016	7.5	tt5022702	6.6	Mike Flanagan	John Gallagher Jr., Kate Siegel, Michael Trucco			
+316	Inferno	Aventura	Ron Howard	2016	6.0	tt3062096	6.2	Dan Brown	Tom Hanks, Felicity Jones, Irrfan Khan			
+317	Nu	Comédia	Michael Tiddes	2017	5.5	tt6048930	5.4	Rick Alvarez	Marlon Wayans, Regina Hall, Dennis Haysbert			
+318	Halloween	Horror	David Gordon Green	2018	7.0	tt1502407	6.5	John Carpenter	Jamie Lee Curtis, Judy Greer, Andi Matichak			
+319	Midsommar	Thriller	Ari Aster	2019	8.0	tt8772262	7.1	Ari Aster	Florence Pugh, Jack Reynor, Vilhelm Blomgren			
+320	Oppenheimer	Biografia	Christopher Nolan	2023	7.5	tt15398776	8.5	Christopher Nolan	Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr.			
+321												
+322												
+323												
+324												
+325												
+326												
+327												
+328												
+329												
+330												
+331												
+332												
+333												
+334												
+335												
+336												
+337												
+338												
+339												
+340												
+341												
+342												
+343												
+344												
+345												
+346												
+347												
+348												
+349												
